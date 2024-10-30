@@ -6,4 +6,4 @@
 - **Operational Efficiency:** Proven track record of enhancing business processes and increasing productivity through data-driven decision-making.
 - **Leadership & Collaboration:** Adept at leading teams, developing talent, and driving cross-functional initiatives.
 
-Feel free to explore my projects, and don’t hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/chrisg2395) or reach out via email: Chrisg2395@gmail.com.
+Feel free to explore my [projects](https://github.com/ItsChris444/Portfolio), and don’t hesitate to connect with me on [LinkedIn](https://www.linkedin.com/in/chrisg2395) or reach out via email: Chrisg2395@gmail.com.
